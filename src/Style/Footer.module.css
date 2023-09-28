@@ -1,0 +1,14 @@
+.mainfooter{
+    height: auto;
+    width: 100%;
+    background-color: #EDF1FC;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+.para{
+    font-family: Nunito, sans-serif;
+    font-weight:100;
+    font-size: 08px;
+    color: #4f4f4f;
+    line-height: 1.5;
+}
