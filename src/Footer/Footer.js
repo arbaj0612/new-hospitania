@@ -6,7 +6,7 @@ function Footer() {
     <div className={style.mainfooter}>
         <div>
         <img src={img1} alt="" height={30}/>
-        <p className={style.para}>rutuja Lorem ipsum dolor sit amet consectetur,<br/> adipisicing elit. Dolore accusantium pariatur aliquid facere nobis<br/> harum eveniet veritatis debitis officia necessitatibus.</p>
+        <p className={style.para}>rutuja vikaas Lorem ipsum dolor sit amet consectetur,<br/> adipisicing elit. Dolore accusantium pariatur aliquid facere nobis<br/> harum eveniet veritatis debitis officia necessitatibus.</p>
         </div>
     </div>
   )
