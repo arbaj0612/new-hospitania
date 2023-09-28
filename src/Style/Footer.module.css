@@ -12,3 +12,14 @@
     color: #4f4f4f;
     line-height: 1.5;
 }
+.footerflex{
+    display: flex;
+}
+.footerFlexContent{
+    padding-left: 55px;
+}
+.footerUL{
+    list-style-type: none;
+    font-size: 08px;
+    line-height: 2;
+}
