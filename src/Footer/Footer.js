@@ -50,6 +50,7 @@ function Footer() {
             </div>
       </div>
       "NEW ADDED"
+      "Changes by TAMMANA"
     </div>
   )
 }
