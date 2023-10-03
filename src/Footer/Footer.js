@@ -49,6 +49,7 @@ function Footer() {
             </ul>
             </div>
       </div>
+      "NEW ADDED"
     </div>
   )
 }
