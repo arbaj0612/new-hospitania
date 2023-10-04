@@ -8,7 +8,7 @@
 .para{
     font-family: Nunito, sans-serif;
     font-weight:100;
-    font-size: 08px;
+    font-size: 16px;
     color: #4f4f4f;
     line-height: 1.5;
 }
@@ -16,10 +16,10 @@
     display: flex;
 }
 .footerFlexContent{
-    padding-left: 55px;
+    padding-left: 150px;
 }
 .footerUL{
     list-style-type: none;
-    font-size: 08px;
+    font-size: 14px;
     line-height: 2;
 }
