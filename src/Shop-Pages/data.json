@@ -1,0 +1,86 @@
+[
+    {
+        "images":"https://hospitania.vercel.app/_next/image?url=%2Fassets%2Fimg%2Fproduct%2Fproduct-1.png&w=640&q=75",
+        "description":"Hemono tablets - Support the treatment of hemorrhoids",
+        "mrp":"120",
+        "discount":"50% off",
+        "price":60
+    },
+    {
+        "images":"https://hospitania.vercel.app/_next/image?url=%2Fassets%2Fimg%2Fproduct%2Fproduct-2.png&w=640&q=75",
+        "description":"Elixinol, Immune Gut Health CBD Capsules, Full Spectrum, Ginger",
+        "mrp":"100",
+        "discount":"50% off",
+        "price":50
+    },
+    {
+        "images":"https://hospitania.vercel.app/_next/image?url=%2Fassets%2Fimg%2Fproduct%2Fproduct-3.png&w=640&q=75",
+        "description":"Prozis Caffeine - Caffeine, 200 mg, 90 Capsules",
+        "mrp":150,
+        "discount":"50% off",
+        "price":75
+    },
+    {
+        "images":"https://hospitania.vercel.app/_next/image?url=%2Fassets%2Fimg%2Fproduct%2Fproduct-4.png&w=640&q=75",
+        "description":"Elixinol stress less capsules",
+        "mrp":"120",
+        "discount":"50% off",
+        "price":60
+    },
+    {
+        "images":"https://hospitania.vercel.app/_next/image?url=%2Fassets%2Fimg%2Fproduct%2Fproduct-5.png&w=640&q=75",
+        "description":"Nora pain relief",
+        "mrp":300,
+        "discount":"50% off",
+        "price":150
+    },
+    {
+        "images":"https://hospitania.vercel.app/_next/image?url=%2Fassets%2Fimg%2Fproduct%2Fproduct-6.png&w=640&q=75",
+        "description":"Elixinol good night cbd capsules",
+        "mrp":150,
+        "discount":"50% off",
+        "price":70
+    },
+    {
+        "images":"https://hospitania.vercel.app/_next/image?url=%2Fassets%2Fimg%2Fproduct%2Fproduct-7.png&w=640&q=75",
+        "description":"Batch CBD softgels - An Authentic Brand",
+        "mrp":100,
+        "discount":"50% off",
+        "price":50
+    },
+    {
+        "images":"https://hospitania.vercel.app/_next/image?url=%2Fassets%2Fimg%2Fproduct%2Fproduct-8.png&w=640&q=75",
+        "description":"Elixinol daily balance cbd capsules",
+        "mrp":150,
+        "discount":"50% off",
+        "price":75
+    },
+    {
+        "images":"https://hospitania.vercel.app/_next/image?url=%2Fassets%2Fimg%2Fproduct%2Fproduct-9.png&w=640&q=75",
+        "description":"Ibuprofen 200mg Tablets",
+        "mrp":120,
+        "discount":"50% off",
+        "price":60
+    },
+    {
+        "images":"https://hospitania.vercel.app/_next/image?url=%2Fassets%2Fimg%2Fproduct%2Fproduct-5.png&w=640&q=75",
+        "description":"Areplivir - Favipiravir tablets",
+        "mrp":300,
+        "discount":"50% off",
+        "price":150
+    },
+    {
+        "images":"https://hospitania.vercel.app/_next/image?url=%2Fassets%2Fimg%2Fproduct%2Fproduct-1.png&w=640&q=75",
+        "description":"Natracare organic cotton tampons",
+        "mrp":140,
+        "discount":"50% off",
+        "price":70
+    },
+    {
+        "images":"https://hospitania.vercel.app/_next/image?url=%2Fassets%2Fimg%2Fproduct%2Fproduct-12.png&w=640&q=75",
+        "description":"Hemono tablets for hemorrhoids",
+        "mrp":100,
+        "discount":"50% off",
+        "price":50
+    }
+]

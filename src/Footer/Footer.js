@@ -2,11 +2,13 @@ import React from 'react'
 import style from '../Style/Footer.module.css'
 import img1 from '../Images/footer.png'
 
+
 const ULSize={
   fontWeight:"bold"
 }
 function Footer() {
   return (
+    <>
     <div className={style.mainfooter}>
       <div className={style.footerflex}>
             <div>
@@ -48,10 +50,14 @@ function Footer() {
               <li>Dribble</li>
             </ul>
             </div>
+          
+          
+            
       </div>
       "NEW ADDED"
       "Changes by TAMMANA"
     </div>
+    </>
   )
 }
 
