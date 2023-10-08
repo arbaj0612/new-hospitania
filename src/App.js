@@ -1,12 +1,12 @@
 import React from "react";
 import Footer from "./Footer/Footer";
-import ShoppingCart from "./Cart/ShoppingCart"
+import CartItems from "./Cart/CartItems";
 
 function App() {
   return (
     <div className="App">
       {/* <Footer/> */}
-      <ShoppingCart/>
+     <CartItems/>
     </div>
   );
 }
