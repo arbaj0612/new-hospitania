@@ -43,8 +43,28 @@ const CartItems = () => {
 												return(
 													<>
 														<tr>
+															<td><div className="product-img"><img src="/logo192.png"/></div></td>
 															<td>
-																<button  className="prdct-delete"><FontAwesomeIcon icon={faTrashCan} /></button> <span>Remove</span>
+																<div className="product-name">
+																	<p>Hemono Tablets - Support The Treatment Of Hemorrhoids</p>
+																	<p className="cart-item my-1">250g</p>
+																	<p>₹60 ₹120 (50.00% OFF)</p>
+																	<div>
+																		<button  className="prdct-delete"><FontAwesomeIcon icon={faTrashCan} /></button> <span>Remove</span>
+																	</div>
+																</div>
+															</td>
+															<td>
+																<div className="product-qty-continer">
+																		<button className="prdct-qty-btn" type="button">
+																			<i className="fa fa-minus"></i>
+																		</button>
+																			<input type="text" className="qty-input-box" value={1} disabled name="" id=""/>
+																		<button className="prdct-qty-btn" type="button">
+																			<i className="fa fa-plus"></i>
+																		</button>
+																			
+																</div>
 															</td>
 														</tr>
 													</>
