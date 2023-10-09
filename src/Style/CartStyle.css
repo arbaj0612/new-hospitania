@@ -124,6 +124,25 @@ a, a:hover, a:focus {
     color: #fff;
 }
 
+.move-to-top {
+    position: relative;
+    bottom: 20px;
+}
+
+.text-adjust{
+    position: relative;
+    bottom: 15px;
+}
+
+.prdct-remove-btn{
+    position: relative;
+    bottom: 25px;
+    right: 10px;
+}
+
+.text-color-green{
+    color: rgb(37, 187, 37);
+}
 .cart-empty {
     text-align: center;
     padding: 30px;
